@@ -21,6 +21,7 @@ body{
  align-items: center;
  color: #fff;
  text-align: center;
+ background: linear-gradient(135deg,#1e3672,#2a5298);
 }
 .hero h1{
     font-size: 3rem;
