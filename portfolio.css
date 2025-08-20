@@ -6,7 +6,7 @@ body{
     display: flex;
     justify-content: space-between;
     padding: 15px 30px;
-    background: color #16161c;
+       background-color:#16161c;
     color: white;
 }
 .logo img{
