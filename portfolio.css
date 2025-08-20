@@ -9,7 +9,12 @@ body{
     background-color:#222;
     color: white;
 }
-.logo{}
+.logo{
+    height: 50px;
+    width: auto;
+    border-radius: 5px;
+    display: block;
+}
 .navbar a{
     color: #fff;
 }
@@ -41,3 +46,4 @@ background-color:#ff9800;
     background-color:#e68900;
     
 }
+
