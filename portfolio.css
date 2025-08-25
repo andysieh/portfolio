@@ -62,3 +62,22 @@ background-color:#ff9800;
   max-width: 700px; 
   line-height: 1.6;  
 }
+.Project{
+    padding: 50px 20px;
+    text-align: center;
+    background-color:#f4f4f4;
+}
+.project{
+    display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.Myproject{
+    background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  width: 250px;
+  text-align: center;
+}
