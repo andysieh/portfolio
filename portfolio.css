@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #FDF6E3;
 }
 .navbar{
     display: flex;
@@ -26,7 +27,7 @@ body{
  align-items: center;
  color: #F5F5F5;
  text-align: center;
- background-color:#0A192F;}
+ background-color:#FFB703;}
  
 .hero h1{
     font-size: 3rem;
@@ -38,19 +39,19 @@ body{
 }
 .btn{
     padding: 10px 20px;
-background-color:#ff9800;
+background-color:#219EBC;
     color: white;
     border-radius: 5px;
     
 }
 .btn:hover{
-    background-color:#e68900;
+    background-color:#FB8500;
     
 }
 .about{
     padding: 80px 20px;
     text-align: center;
-    background-color:#e3f2fd;
+    background-color:#8ECAE6;
     color:#333;
 }
 .about h2{
@@ -66,7 +67,7 @@ background-color:#ff9800;
 .Project{
     padding: 50px 20px;
     text-align: center;
-    background-color:#112240;
+    background-color:#FFDDD2;
 }
 .Projects{
     display: flex;
@@ -75,7 +76,7 @@ background-color:#ff9800;
   flex-wrap: wrap;
 }
 .Myproject{
-    background: white;
+    background: #ff6f61;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
