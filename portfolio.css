@@ -143,3 +143,8 @@ background-color:#219EBC;
   border-radius: 5px;
   transition: background-color 0.3s;
 }
+.social_icon{
+display: flex;
+justify-content: center;
+gap: 20px;
+}
