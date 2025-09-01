@@ -12,6 +12,7 @@ body{
     gap: 30px;
   }
   .nav{
+    display: flex;
     gap: 30px;
   }
 .logo img{
@@ -22,6 +23,7 @@ body{
 }
 .navbar a{
     color: #fff;
+  padding-right: 10px;
 }
 .hero{
  height: 100vh;
