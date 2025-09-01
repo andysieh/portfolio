@@ -9,7 +9,7 @@ body{
     padding: 15px 30px;
        background-color:#023047;
     color: white;
-
+    gap: 30px;
   }
   .nav{
     gap: 30px;
