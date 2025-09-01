@@ -148,3 +148,9 @@ display: flex;
 justify-content: center;
 gap: 20px;
 }
+.footer{
+padding: 50px 20px;
+text-align: center;
+background-color:#023047;
+border-top: 5px solid #FB8500;
+}
